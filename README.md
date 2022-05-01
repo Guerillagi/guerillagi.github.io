@@ -1,1 +1,1 @@
-My resume project I created with HTML5 and CSS3 to comprehend the use cases of GitHub and Web Design fundamentals
+My live resume project I created to comprehend the use cases of GitHub and Responsive Web Design with HTML5 and CSS3.
