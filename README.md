@@ -1,6 +1,6 @@
 <header>
   <h1>guerillagi.github.io - A Live Resume/Portfolio Project</h1>
-My live resume project I created to comprehend the use cases of GitHub and Responsive Web Design with HTML5 and CSS3.
+My live resume project I am working on to comprehend the use cases of GitHub and Responsive Web Design with HTML5 and CSS3.
   </header>
   <body>
   <h2>Sources</h2> 
